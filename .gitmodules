@@ -9,3 +9,6 @@
 [submodule "lib/era-system-contracts"]
 	path = lib/era-system-contracts
 	url = https://github.com/matter-labs/era-system-contracts
+[submodule "lib/solmate"]
+	path = lib/solmate
+	url = https://github.com/transmissions11/solmate.git
